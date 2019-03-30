@@ -7,7 +7,7 @@ Copy application to localhost
 do db settings as mentioned  below
 
 
-FIND DB FILE NEXT TO THIS AND IMPORT TO MYSQL
+FIND DB FILE IN README FOLDER TO THIS AND IMPORT TO MYSQL
 DATABASE NAME:simple_login
 
 database username:root
