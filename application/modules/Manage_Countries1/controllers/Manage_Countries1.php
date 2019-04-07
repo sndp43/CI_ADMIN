@@ -241,7 +241,6 @@ function manage_search() {
 
 function create()
 { 
-
     // country 22
     //added comment
     // print_r($this->session->userdata()); exit;
